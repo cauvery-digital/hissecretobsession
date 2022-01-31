@@ -1,6 +1,6 @@
 User-agent: Googlebot
 User-agent: Mediapartners-Google
-
+disallow:
 User-agent: *
 disallow:/0-privacy.html
 disallow:/0-terms.html
