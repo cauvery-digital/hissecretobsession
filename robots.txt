@@ -1,7 +1,9 @@
 User-agent: Googlebot
 User-agent: Mediapartners-Google
-
-
+disallow:/0-privacy.html
+disallow:/0-terms.html
+disallow:/1-privacy.html
+disallow:/1-terms.html
 User-agent: *
 Allow: /
 Sitemap: https://hissecretobsessionone.netlify.app/sitemap.xml
