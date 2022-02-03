@@ -1,3 +1,135 @@
+@media (max-width: 767px) {
+  /* line 4, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+  .mobile_menu {
+    position: absolute;
+    right: 0px;
+    width: 100%;
+    z-index: 9;
+  }
+}
+/* line 13, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 28, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 32, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+@media (max-width: 767px) {
+  /* line 35, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 35, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+}
+
+/* line 44, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 55, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+@media (max-width: 767px) {
+  /* line 12, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+}
+
+/* line 72, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 78, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 92, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 107, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 122, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_slick-nav.scss */
+
+/* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+.header-area {
+  left: 0;
+  right: 0;
+  width: 100%;
+  top: 0;
+  z-index: 9;
+}
+
+@media (max-width: 767px) {
+  /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+  .header-area {
+    padding-top: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 1, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+  .header-area {
+    padding-top: 0;
+  }
+}
+
+/* line 15, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+.header-area .main-header-area {
+  background: #fff;
+}
+
+@media (max-width: 767px) {
+  /* line 15, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+  .header-area .main-header-area {
+    padding: 10px 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 15, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+  .header-area .main-header-area {
+    padding: 10px 10px;
+  }
+}
+
+/* line 31, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+@media (max-width: 767px) {
+  /* line 31, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 31, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 31, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+@media (max-width: 767px) {
+  /* line 45, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 45, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+/* line 57, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+/* line 63, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+/* line 66, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+/* line 70, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+/* line 77, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 77, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  /* line 77, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+/* line 85, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 85, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+}
+
+/* line 96, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
+
+/* line 104, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu {
   text-align: right;
 }
