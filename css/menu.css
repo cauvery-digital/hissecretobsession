@@ -205,7 +205,7 @@
 
 /* line 252, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .header-top_area {
-  padding: 19px 0;
+  padding: 16px 0;
   background: #1c1818;
 }
 
@@ -223,7 +223,7 @@
 
 /* line 260, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .header-top_area .social_media_links a {
-  font-size: 18px;
+  font-size: 12px;
   color: #C7C7C7;
   margin-left: 32px;
 }
@@ -252,7 +252,7 @@
 
 /* line 277, ../../Arafath/CL/january 2020/240. Animal/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li a {
-  font-size: 16px;
+  font-size: 12px;
   color: #ffffff;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
