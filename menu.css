@@ -8195,13 +8195,12 @@ h1, h2, h3, h4, h5,
       padding: 10px 15px; } }
   .ftco-navbar-light .navbar-brand {
     color: #000;
-    text-transform: uppercase;
     font-weight: 700; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #000; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-brand {
-        color: #fff; } }
+        color: #fff; font-size:35px } }
   @media (max-width: 991.98px) {
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
