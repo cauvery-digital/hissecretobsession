@@ -8197,7 +8197,7 @@ h1, h2, h3, h4, h5,
     color: #000;
     font-weight: 700;
     font-style:italic;
-    font-size:45px; font-color: #9f2740}
+    font-size:45px; color: #9f2740}
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #000; }
     @media (max-width: 991.98px) {
