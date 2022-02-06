@@ -3703,8 +3703,8 @@ input[type="button"].btn-block {
   .navbar-expand .navbar-toggler {
     display: none; }
 
-.navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9); }
+  .navbar-light .navbar-brand {
+    Color:rgb(159, 39, 64); }
   .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
     color: rgba(0, 0, 0, 0.9); }
 
